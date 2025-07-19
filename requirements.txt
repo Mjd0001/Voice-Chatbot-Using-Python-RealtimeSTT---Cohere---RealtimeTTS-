@@ -2,3 +2,4 @@ streamlit
 cohere
 RealtimeSTT
 RealtimeTTS[gtts]
+elevenlabs
