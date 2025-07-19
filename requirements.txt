@@ -1,4 +1,4 @@
 streamlit
 cohere
 RealtimeSTT
-RealtimeTTS
+RealtimeTTS[gtts]
