@@ -2,4 +2,4 @@ streamlit
 cohere
 RealtimeSTT
 RealtimeTTS[gtts]
-elevenlabs
+elevenlabs==1.5.0
